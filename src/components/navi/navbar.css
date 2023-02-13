@@ -1,0 +1,21 @@
+.navbarNav {
+    margin-top: 1.5%;
+    list-style: none;
+    color: black;
+    font-size: x-large;
+}
+
+.navItem {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.navItem2 {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.linkTextDecortation {
+    color: black;
+    text-decoration: none;
+}

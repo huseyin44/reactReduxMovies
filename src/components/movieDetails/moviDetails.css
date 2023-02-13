@@ -1,0 +1,23 @@
+.directorText{
+    font-size:larger;
+    color: black;
+}
+.vizyonTarihiText{
+    font-size: larger;
+    color: red;
+}
+.imbdText{
+    font-size: larger;
+    color: blue;
+}
+.descriptionText{
+    font-size: larger;
+    color: black;
+}
+.imgCenter{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  width: 60%;
+}
